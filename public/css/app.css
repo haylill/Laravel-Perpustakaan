@@ -1,0 +1,39 @@
+.nav-link{
+    color: black;
+    font-size: 18px;
+}
+.jumbotron {
+    background-image: url('../img/perpuss.jpg');
+    background-size: cover;
+    height: 770px;
+    text-align: center;
+    margin-top: -280px;
+}
+
+.jumbotron .display-4{
+    color: white;
+    margin-top: 250px;
+    font-weight: bold;
+}
+
+.jumbotron .font-weight-bold{
+    color: white;
+    font-size: 35px;
+}
+
+.jumbotron p {
+    color: white;
+    font-style: italic;
+    font-size: 20px;
+}
+
+.jumbotron .btn{
+    background-color: #F05f40;
+    border:none;
+    border-radius: 25px;
+    padding: 5px 30px;
+    margin-top: 20px;
+}
+.content{
+    margin: 40px;
+}
