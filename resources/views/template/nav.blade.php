@@ -54,11 +54,11 @@
                     </li>
                     @endif
 
-                    @if (auth()->user()->level=="siswa" || auth()->user()->level=="pegawai")
+                    <!-- @if (auth()->user()->level=="siswa" || auth()->user()->level=="pegawai")
                     <li class="nav-item">
                         <a class="nav-link text-light" href="/activity">ACTIVITY</a>
                     </li>
-                    @endif
+                    @endif -->
 
                     @if (auth()->user()->level=="admin")
                     <li class="nav-item">

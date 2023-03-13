@@ -30,9 +30,9 @@
             <li class="nav-item">
                 <a class="nav-link text-light" href="#">KATALOG</a>
             </li>
-            <li class="nav-item">
+            <!-- <li class="nav-item">
                 <a class="nav-link text-light" href="#">ACTIVITY</a>
-            </li>
+            </li> -->
             </ul>
         </div>
     </nav>

@@ -11,7 +11,7 @@
                                     <img src="{{ asset($item->photo) }}" class="card-img-top" alt="ini gambar buku">
                                 </div>                                 
                                 <div class="card-body">
-                                    <h5 class="card-title text-center" style="line-height: 0.5;">{{ $item->judul_buku }}</h5>
+                                    <h5 class="card-title text-center" style="line-height: 0.9;">{{ $item->judul_buku }}</h5>
                                     <p class="card-text text-center" style="line-height: 0.5;">{{ $item->penulis_buku }}</p>
                                 </div>
                                 <div class="row">
